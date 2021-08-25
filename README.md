@@ -1,1 +1,1 @@
-# Polymorphism
+Polymorphism is the method in an object-oriented programming language that performs different things as per the object's class, which calls it. With Polymorphism, a message is sent to multiple class objects, and every object responds appropriately according to the properties of the class.
